@@ -1,4 +1,4 @@
 # DesignPattern
 Repo for Studying "Agile Software Development, Principles, Patterns, and Practices"
 
-using Intellij IDE
+using Junit5, Assertj with Intellij IDE
